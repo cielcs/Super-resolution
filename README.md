@@ -15,7 +15,7 @@
 go to [SRCNN.ipynb](https://github.com/cielcs/Super-resolution/blob/main/SRCNN.ipynb "SRCNN.ipynb")
 
 ### 補足
-最初に画像を拡大する際の補完方法に有名なものとして以下のものがある。<br/>
+最初に画像を拡大する際の補完方法に有名なアルゴリズムとして以下のものがある。<br/>
 今回はbilinearを採用した。
 - 最近傍補完（Nearest neighbor)
 - 双一次補完（Bilinear)

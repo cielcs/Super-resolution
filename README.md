@@ -4,7 +4,7 @@
 # SRCNN
 超解像にDLとしてCNNを活用したもの。<br/>
 ### コード
-SRCNN.ipynb<br/>
+[SRCNN.ipynb](https://github.com/cielcs/Super-resolution/blob/main/SRCNN.ipynb "SRCNN.ipynb")<br/>
 <br/>
 ### 手順
 1. 低解像度の画像を画像補完アルゴリズムにより拡大する
@@ -12,7 +12,7 @@ SRCNN.ipynb<br/>
 3. 損失関数は平均二乗誤差を採用
 
 ### モデルの構造
-go to SRCNN.ipynb
+go to [SRCNN.ipynb](https://github.com/cielcs/Super-resolution/blob/main/SRCNN.ipynb "SRCNN.ipynb")
 
 ### 補足
 最初に画像を拡大する際の補完方法に有名なものとして以下のものがある。<br/>

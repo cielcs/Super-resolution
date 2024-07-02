@@ -3,6 +3,7 @@
 
 # SRCNN
 超解像にDLとしてCNNを活用したもの。<br/>
+今回は残差ブロック(ResNet)を導入した。
 ### コード
 [SRCNN.ipynb](https://github.com/cielcs/Super-resolution/blob/main/SRCNN.ipynb "SRCNN.ipynb")<br/>
 <br/>

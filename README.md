@@ -24,3 +24,6 @@ go to [SRCNN.ipynb](https://github.com/cielcs/Super-resolution/blob/main/SRCNN.i
 - https://arxiv.org/pdf/1501.00092
 - https://qiita.com/PingpongChopper/items/cca7d95a16c522746130
 - https://qiita.com/ratorato/items/7c2ee6c87d7707a733c1
+
+# メモ
+NVIDIAのRTX VSがすごそう。https://blogs.nvidia.co.jp/2023/03/10/rtx-video-super-resolution/
